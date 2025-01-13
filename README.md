@@ -5,7 +5,7 @@
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+My portfolio's objective is to showcase my skills, accomplishments, and practical experience to potential employers or clients. It provides tangible proof of what I can do and highlights my ability to deliver results. Through it, I aim to demonstrate my expertise and build credibility in my field.
 
 My journey in Computer Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
